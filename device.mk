@@ -199,6 +199,9 @@ PRODUCT_PACKAGES += \
     libgui_vendor \
     vendor.qti.hardware.camera.device@1.0
 
+PRODUCT_PACKAGES += \
+    GCamGOPrebuilt-V2
+
 # Common init scripts
 PRODUCT_PACKAGES += \
     fstab.qcom \
