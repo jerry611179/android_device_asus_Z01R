@@ -13,6 +13,7 @@ persist.vendor.btstack.enable.twsplussho=true
 ro.bluetooth.a2dp_offload.supported=true
 ro.bluetooth.library_name=libbluetooth_qti.so
 vendor.bluetooth.soc=cherokee
+bluetooth.device.class_of_device=90,2,12
 
 # Camera
 camera.beautylive.support_flip=1
