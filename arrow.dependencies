@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "android_vendor_asus_Z01R",
+    "target_path": "vendor/asus/Z01R"
+  },
+  {
+    "repository": "android_kernel_asus_sdm845",
+    "target_path": "kernel/asus/sdm845"
+  },
+  {
+    "repository": "android_packages_apps_GCamGOPrebuilt",
+    "target_path": "packages/apps/GCamGOPrebuilt"
+  }
+]
