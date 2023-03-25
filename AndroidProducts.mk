@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_Z01R.mk
+    $(LOCAL_DIR)/aosp_Z01R.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_Z01R-user \
-    arrow_Z01R-userdebug \
-    arrow_Z01R-eng
+    aosp_Z01R-user \
+    aosp_Z01R-userdebug \
+    aosp_Z01R-eng
