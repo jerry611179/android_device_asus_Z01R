@@ -23,15 +23,15 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o.mk)
 $(call inherit-product, device/asus/Z01R/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/arrow/config/common.mk)
+$(call inherit-product, vendor/aosp/config/common.mk)
 
 PRODUCT_BRAND := asus
 PRODUCT_DEVICE := Z01R
 PRODUCT_MANUFACTURER := asus
 PRODUCT_MODEL := Zenfone 5Z
-PRODUCT_NAME := arrow_Z01R
+PRODUCT_NAME := aosp_Z01R
 
-# ArrowOS additions
+# aosp additions
 DEVICE_MAINTAINER := EdwardWu
 
 PRODUCT_GMS_CLIENTID_BASE := android-asus
